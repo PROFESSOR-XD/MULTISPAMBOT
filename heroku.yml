@@ -1,0 +1,5 @@
+build:
+  docker:
+    Glad: Dockerfile
+run:
+  Glad: python3 -m gaurav.py
